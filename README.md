@@ -4,7 +4,7 @@ By Saurabh
 
 Here's the Live Deployed Website ![Project 4](https://img.shields.io/badge/Project-4-brightgreen)
 
-## [DEPLOYED WEBSITE LINK](https://crushcompetition.netlify.app//)
+## [DEPLOYED WEBSITE LINK](https://crush-your-competition-ineuron.netlify.app/)
 
 ![Completed Website](./4.png)
 
