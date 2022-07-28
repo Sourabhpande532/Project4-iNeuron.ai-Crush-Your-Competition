@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@600&display=swap');
 *{
  padding: 0;
  margin: 0;
@@ -6,12 +7,15 @@
 
 :root{
    --color : rgb(101, 101, 210);
+   --adjust : relative;
+   --flex_o : flex;
+   --distance: space-between;
 }
 
-.navbar-container,
-.banner-container{
-    display: flex;
-    justify-content: space-between;
+.navbar-container
+{
+    display: var(--flex_o);
+    justify-content: var(--distance);
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 2.5rem;
@@ -25,7 +29,7 @@
 li{
     display: inline;
     margin: 12px;
-    position: relative;
+    position: var(--adjust);
     right: 4.9rem;
     top: 0.7rem;
     color: grey;
@@ -35,9 +39,9 @@ li{
 }
 
 .heading-text{
- font-size: 4rem;
+ font-size: 5rem;
  font-weight: bolder;
- font-family: 'Ibarra Real Nova', serif;
+ font-family: 'Fira Sans', sans-serif;
 
 }
 button{
@@ -47,7 +51,41 @@ button{
     border-radius: 15px;
     color: #fff;
     font-weight: 600;
+
 }
+
+.nav-btn{
+    padding: 10px 30px;
+    margin: 4px 6px;
+    background: var(--color);
+    border-radius: 12px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.nav_btn{
+    padding-top: 7%;
+}
+
 span{
    color: var(--color); 
+}
+
+.banner-container{
+    display: var(--flex_o);
+    justify-content: var(--distance);
+    padding-left: 5%;
+    padding-top: 2%;
+}
+.description{
+    color: grey;
+    padding-top: 6%;
+    font-size: 1.3rem;
+}
+.grow-list{
+    position: var(--adjust);
+    right: 9rem;
+    top: 3px;
+    font-size: 1.5rem;
 }
