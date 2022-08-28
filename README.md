@@ -1,24 +1,34 @@
-# Project 4 - HTML and CSS 
+# Assignment-4 - HTML and CSS 
 
 By  **Saurabh**
 
-Here's the Live Deployed Website
+![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
+![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT---lightgrey)
 
- ![Project 4](https://img.shields.io/badge/Project-4-brightgreen)
+![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
-## [GO LIVE](https://crush-your-competition-ineuron.netlify.app/)
+![HTML & CSS-Assighnment-project](https://img.shields.io/badge/No--Responsive-Ineuron--Assignment-blue)
 
-
-
+# [GO LIVE](https://crush-your-competition-ineuron.netlify.app/)
+---
 
 ![Completed Website](./assets/4.png)
+---
+## Technologies used
 
+> HTML
 
+> CSS  
+---
 
-## What I learned from this Project?
-
+## **Skill Gained in the project**
 - This Project Enhance my leval of Confidence agains learn a lot of things **Navbar, Buttons.** **Google Fonts**
-- And also How to Adjust Content Properly 
+- And also How to Adjust Content Properly.
+ I learned how to Design website in a beautiful manner with respect HTML and CSS.
+
 ***
 
-### To Be Honest It took around **3** **Hour** to complete.
+#Time taken to finish this project
+
+-   **3 Hour** hour to complete it.
+---
